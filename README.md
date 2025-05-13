@@ -1,4 +1,4 @@
-# Frontend Mentor - Recipe page solution
+# Frontend Mentor - Recipe Page Solution
 
 This is a solution to the Recipe page challenge on Frontend Mentor 
 
